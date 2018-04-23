@@ -1,0 +1,24 @@
+{
+    "name": "koa-react-ant",
+    "version": "1.0.0",
+    "description": "koa-react-ant",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "keywords": [
+        "koa",
+        "async"
+    ],
+    "author": "Michael Liao",
+    "license": "Apache-2.0",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "dependencies": {
+        "koa": "2.5.0",
+        "koa-router": "7.4.0",
+        "koa-bodyparser": "3.2.0"
+    }
+}
